@@ -1,0 +1,8 @@
+.each-slide{
+    display: flex;
+    justify-content: center;
+}
+.each-slide111{
+    height: 500px;
+    width: 800px;
+}
